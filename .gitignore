@@ -1,0 +1,11 @@
+# Ignore VSCode settings  
+.vscode/  
+
+# Ignore executable files  
+*.exe  
+
+# Ignore Git attributes file  
+.gitattributes  
+
+# Ignore other unnecessary files  
+lab1.exe
